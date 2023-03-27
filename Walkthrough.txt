@@ -1,0 +1,56 @@
+Walkthrough:
+
+Chests are randomized, but the locked chests contain much better loot and drop two items. Seek locked chests before you go to the boss. If you still struggle with the boss, feel free to edit his health value to see if the ending works or not. I have tested and can beat the boss consistently if I've collected all the items.
+
+Look at the map to see the rooms and what will be in them. It is a .png file in this same directory.
+
+I recommend playing the game with the console maximized, it works minimized but changing mid game will mess with the details for only a little bit
+
+REACH GOALS:
+	
+	Enemy Encounter (no invisible enemies, once collision with enemies is detected then start combat, an enemy's exclamation mark may appear over you in which case you are in "chase mode", if you hit a wall or unlock something, combat will initiate)
+
+	Wrong Combo (you can start the boss at any time you have the key, on purpose or accident, but without healing potions and a weapon gained from a locked chest the boss fight is near to impossible)
+
+	Auto Pickup (this game uses no commands but wasd and numbered choices)
+
+		Note there is no c command
+
+	Colors (for artistic reasons, everything is red except where you or enemies walk, also I experimented on the title screen trying to make a cool animated effect)
+
+HOW TO WIN:
+
+	Start in main hall, grab chest.
+
+	Ignore the door to the west and go east (the door to the west is the boss).
+
+		Whenever a chest drops a key, always go for the locked chests first before doors. Locked chests may often provide more keys.
+
+	Unlock the chest in here if available.
+
+	Go north.
+
+	In this room, you may avoid the enemy by going through the west door and avoiding the east door. It is a loop so you will return here later.
+
+	Walk down until the chest is between you and the enemy. Walk straight over to the chest. If the enemy is not on the square directly next to the chest.
+
+	Grab the chest. Kill the enemy. If the exclamation mark is over you, you are in "chase mode." You can still go and run but as soon as you stop or hit a wall the fight will initiate.
+
+	Go through the north door. It is locked so make sure you have a key first. If you have no key, you will have to return to the 3rd room (the suspicious meeting room) and go east to find more keys.
+
+	Unlock the chest in this room if you can and head east. It is hard to avoid the enemy in here so you may just want to fight it.
+
+	Unlock the chest in the next room if you can. Head east.
+
+	This room contains two enemies and two chests. Go for the unlocked one first, trying to the get the enemies to hit the walls so you can avoid them. Once you grabbed the first chest, go through the south side of the room to the locked chest to best avoid the enemies.
+
+	Using the same strat to get the chests, make sure the enemies get snagged on the walls and move to the south (you'll need a key or you'll have to walk all the way around).
+
+	You may skip the chest in this room as it most certainly leads to conflict. Run out the west door.
+
+	Return to the entrance (south door then west door). Unlock the door and enter the bossfight. If you don't have the key, you will have to collect the chest in the spiral looking room.
+
+	Fight the boss. I recommend spamming either the Messer or the Spear. The Spear leads to lots of boss misses but the Messer does heavy damage. The Long Sword will be a balanced mix. I also recommend using all your potions at once. They provide immunity for one turn so when you gain health you don't instantly lose it.
+
+	Once you killed the boss, you've won!
+
